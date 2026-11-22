@@ -4,7 +4,7 @@
   "description": "A notepad calculator for numbers you don't know yet. The app is at https://rhumbpad.com — the npm package arrives with it.",
   "type": "module",
   "bin": {
-    "rhumbpad": "./bin/rhumbpad.mjs"
+    "rhumbpad": "bin/rhumbpad.mjs"
   },
   "files": [
     "bin"
